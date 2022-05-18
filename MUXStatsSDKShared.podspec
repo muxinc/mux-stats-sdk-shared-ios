@@ -12,6 +12,7 @@ Pod::Spec.new do |s|
 
   s.license          = 'Apache 2.0'
   s.author           = { 'Mux' => 'ios-sdk@mux.com' }
+  s.swift_version = '5.0'
 
   s.ios.deployment_target = '9.0'
   s.tvos.deployment_target = '9.0'
