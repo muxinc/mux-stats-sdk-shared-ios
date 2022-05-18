@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name             = 'MUXStatsSDKShared'
 
   s.version          = '0.1.0'
-  s.source           = { :git => 'https://github.com/muxinc/mux-stats-sdk-shared-ios.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/muxinc/mux-stats-sdk-shared-ios.git', :tag => "v#{s.version}" }
 
   s.summary          = 'The Mux Stats shared components SDK'
   s.description      = 'The Mux Stats SDK that contains important shared models and utilities that are used withing the iOS player SDKs'
