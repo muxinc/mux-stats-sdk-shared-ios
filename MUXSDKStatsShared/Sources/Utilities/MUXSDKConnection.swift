@@ -1,6 +1,6 @@
 //
 //  MUXSDKConnection.swift
-//  MUXStatsSDKShared
+//  MUXSDKStatsShared
 //
 //  Created by Stephanie Zuñiga on 25/10/21.
 //  Copyright © 2021 Mux, Inc. All rights reserved.

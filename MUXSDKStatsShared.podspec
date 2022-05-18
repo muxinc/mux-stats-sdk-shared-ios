@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'MUXStatsSDKShared'
+  s.name             = 'MUXSDKStatsShared'
 
   s.version          = '0.1.0'
   s.source           = { :git => 'https://github.com/muxinc/mux-stats-sdk-shared-ios.git', :tag => "v#{s.version}" }
@@ -19,5 +19,5 @@ Pod::Spec.new do |s|
 
   s.dependency 'Mux-Stats-Core', '~>3.11'
 
-  s.source_files = 'MUXStatsSDKShared/Sources/**/*'
+  s.source_files = 'MUXSDKStatsShared/Sources/**/*'
 end

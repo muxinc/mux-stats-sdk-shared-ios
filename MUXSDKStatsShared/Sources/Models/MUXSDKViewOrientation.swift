@@ -1,6 +1,6 @@
 //
 //  MUXSDKViewOrientation.swift
-//  MUXStatsSDKShared
+//  MUXSDKStatsShared
 //
 //  Created by Stephanie Zuñiga on 4/11/21.
 //  Copyright © 2021 Mux, Inc. All rights reserved.
